@@ -1,8 +1,9 @@
 # e-commerce-Java-project-
+over here you can see the project files https://github.com/amr552/e-commerce-Java-project-/tree/master
 Installation and Running
 Using an IDE
 
-    Clone or Download this repository onto your local machine.(over here you can see the project files https://github.com/amr552/e-commerce-Java-project-/tree/master)
+    Clone or Download this repository onto your local machine.
         On GitHub, click the green Code button, then Download ZIP, and extract it.
     Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, NetBeans).
         In IntelliJ: File > Open and select the project folder.
